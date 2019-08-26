@@ -6,4 +6,6 @@
 
 - name: DEBUG Brew Restart Jenkins (Darwin)
   debug:
-    msg: "{{ brew_restart_jenkins.stdout_lines }}"  
+    msg: "{{ brew_restart_jenkins.stdout_lines }}" 
+
+# TEST     
