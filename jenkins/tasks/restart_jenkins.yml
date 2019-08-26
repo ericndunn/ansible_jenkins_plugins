@@ -8,4 +8,3 @@
   debug:
     msg: "{{ brew_restart_jenkins.stdout_lines }}" 
 
-# TEST     
